@@ -1,0 +1,13 @@
+# Highlights & Device Specific Changes
+# Build type: Monthly/Weekly
+# Device: POCO X4 PRO 5G (veux/peux)
+# Device maintainer: SharmagRit
+
+===== 28th March 2023 =====
+- Synced with Latest BananaDroid A13 changes
+- veux: Update with latest global vendor 13.0.5.0 with Nov patch kernel
+- veux: Nuke Dirac and Haptic feeback
+- veux: Disable blur on app launch
+- veux: Show Turbo Charging
+- veux: Add touch improvements sysprops
+- Revert "veux: add Lineage Trust"
